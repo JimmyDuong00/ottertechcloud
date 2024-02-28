@@ -1,10 +1,15 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Azure Sentinel Attack Map
+description: Deploying a honeynet to collect intel on worldwide threats.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+# Overview
+In order to begin this project, you will need a free Azure subscription account. 
+We will use these services in Azure:
+- Azure Virtual Machine (Running Windows)
+- Azure Log Analytics Workspace
+- Azure Sentinel 
+
 
 ## Further reading
 
