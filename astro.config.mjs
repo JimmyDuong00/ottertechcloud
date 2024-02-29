@@ -5,9 +5,9 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'OtterTech',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/JimmyDuong00',
 			},
 			sidebar: [
 				{
@@ -19,6 +19,10 @@ export default defineConfig({
 				},
 				{
 					label: 'Reference',
+					autogenerate: { directory: 'reference' },
+				},
+				{
+					label: 'About',
 					autogenerate: { directory: 'reference' },
 				},
 			],
