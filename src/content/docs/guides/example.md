@@ -1,5 +1,5 @@
 ---
-title: Start Here
+title: guidetest
 description: Deploying a honeynet to collect intel on worldwide threats.
 ---
 
@@ -11,10 +11,5 @@ We will use these services in Azure:
 - Azure Sentinel 
 
 
-## Create the virtual machine
-Start by navigating to the virtual machine blade  
 
-## Create a Log Analytics Workspace
-
-## Create a Workbook in Azure Sentinel
 
